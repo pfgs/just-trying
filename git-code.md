@@ -1,6 +1,7 @@
-# Git comand
+# Git commands
 ![git stages](https://i.sstatic.net/QaeAZ.png)
 
+```
 git init
 
 git status 
@@ -10,3 +11,4 @@ git show (commit)
 git log
 
 git commit -m(mensage) -a(all)
+```
